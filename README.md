@@ -1,16 +1,17 @@
 # error-log
 
-实现一个js报错 通过钉钉机器人通知开发者的错误上报demo;
+实现一个`js报错`通过钉钉机器人通知开发者的错误上报demo;
 
 
 front：vue代码
 
-server:node代代码
+server:node代码
 
 
 in front
 
 第一步：npm i
+
 第二步:npm run serve
 
 in server
